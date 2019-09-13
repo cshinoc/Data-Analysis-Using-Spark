@@ -1,0 +1,88 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.03ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook collinearPoints.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23
+[NotebookApp | INFO] 302 GET /notebooks/non-collinear-points.jpg (172.17.0.1) 4.74ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20190415032847 (172.17.0.1) 10.74ms referer=http://localhost:8889/notebooks/collinearPoints.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Starting buffering for 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23:9f69061c6f914d4ca63f422b21edb84d
+[NotebookApp | INFO] Kernel restarted: 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23
+[NotebookApp | INFO] Restoring connection for 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23:9f69061c6f914d4ca63f422b21edb84d
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] Saving file at /collinearPoints.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9737a6ae-dffb-4bd8-bb49-11e2ae25ad23
